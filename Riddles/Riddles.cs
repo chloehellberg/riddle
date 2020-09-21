@@ -4,15 +4,15 @@ namespace Riddle.Answer {
 
   public class Phinx
   {
-    public bool CheckAnswer(string userAnswer)
+    public bool CheckAnswerOne(string userAnswerOne)
     {
-      if ( userAnswer.Contains("all") )
+      if ( userAnswerOne.Contains("all") )
       {
         return true;
       }
       else
       {
-        switch (userAnswer.ToLower())
+        switch (userAnswerOne.ToLower())
         {
           case "january":
           case "february":
@@ -32,5 +32,19 @@ namespace Riddle.Answer {
         }
       }
     }
+
+    public bool CheckAnswerTwo(string userAnswerTwo)
+    {
+      // bool answer = userAnswerTwo.Contains("river") ? true : false;
+      // return answer;
+      if ( userAnswerTwo.Contains("river") )
+      {
+        return true;
+      }
+      else
+      {
+        return false;
+      }
+    }    
   }
 }
