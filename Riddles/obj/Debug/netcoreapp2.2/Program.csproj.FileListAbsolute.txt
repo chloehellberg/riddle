@@ -1,0 +1,11 @@
+/Users/chloehellberg/Desktop/riddles/Riddles/obj/Debug/netcoreapp2.2/Program.csprojAssemblyReference.cache
+/Users/chloehellberg/Desktop/riddles/Riddles/obj/Debug/netcoreapp2.2/Program.csproj.CoreCompileInputs.cache
+/Users/chloehellberg/Desktop/riddles/Riddles/obj/Debug/netcoreapp2.2/Program.AssemblyInfoInputs.cache
+/Users/chloehellberg/Desktop/riddles/Riddles/obj/Debug/netcoreapp2.2/Program.AssemblyInfo.cs
+/Users/chloehellberg/Desktop/riddles/Riddles/bin/Debug/netcoreapp2.2/Program.deps.json
+/Users/chloehellberg/Desktop/riddles/Riddles/bin/Debug/netcoreapp2.2/Program.runtimeconfig.json
+/Users/chloehellberg/Desktop/riddles/Riddles/bin/Debug/netcoreapp2.2/Program.runtimeconfig.dev.json
+/Users/chloehellberg/Desktop/riddles/Riddles/bin/Debug/netcoreapp2.2/Program.dll
+/Users/chloehellberg/Desktop/riddles/Riddles/bin/Debug/netcoreapp2.2/Program.pdb
+/Users/chloehellberg/Desktop/riddles/Riddles/obj/Debug/netcoreapp2.2/Program.dll
+/Users/chloehellberg/Desktop/riddles/Riddles/obj/Debug/netcoreapp2.2/Program.pdb
